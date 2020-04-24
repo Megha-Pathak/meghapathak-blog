@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Megha Pathak Blogs`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Megha Pathak`,
+      summary: `My world revolves around: Product, People and Personal Branding. I am Product Management enthusisat who can help you with Community building, React developement and Personal Branding.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `This is my Personal Blog`,
+    siteUrl: `https://meghablogs.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Megha_Pathak_`,
     },
   },
   plugins: [
