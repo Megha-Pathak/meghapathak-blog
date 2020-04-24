@@ -3,7 +3,8 @@ module.exports = {
     title: `Megha Pathak Blogs`,
     author: {
       name: `Megha Pathak`,
-      summary: `My world revolves around: Product, People and Personal Branding. I am Product Management enthusisat who can help you with Community building, React developement and Personal Branding.`,
+      summary: ` My world revolves around: Product, People and Personal Branding.                                     
+   I am a Product Management enthusisat, and can help you with Community building, ReactJs developement and Personal Branding.`,
     },
     description: `This is my Personal Blog`,
     siteUrl: `https://meghablogs.netlify.app/`,
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
