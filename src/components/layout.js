@@ -64,7 +64,9 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}, Find me at - 
         {` `}
         <a href="https://www.linkedin.com/in/megha--pathak/">LinkedIn</a>
+       
         <a href="github.com/megha-pathak">GitHub</a>
+       
         <a href="https://twitter.com/Megha_Pathak_">Twitter</a>
       </footer>
     </div>
