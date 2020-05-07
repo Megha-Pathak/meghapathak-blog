@@ -63,11 +63,15 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Find me at - 
         {` `}
-        <a href="https://www.linkedin.com/in/megha--pathak/">LinkedIn</a>
+        
+        <p><a href="https://www.linkedin.com/in/megha--pathak/">LinkedIn</a></p>
        
-        <a href="github.com/megha-pathak">GitHub</a>
+        
+        <p><a href="github.com/megha-pathak">GitHub</a> </p>
        
-        <a href="https://twitter.com/Megha_Pathak_">Twitter</a>
+     
+        <p> <a href="https://twitter.com/Megha_Pathak_">Twitter</a></p>
+        
       </footer>
     </div>
   )

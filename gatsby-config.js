@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Megha Pathak Blogs`,
+    title: `Pinch of Apprehension`,
     author: {
       name: `Megha Pathak`,
       summary: ` My world revolves around: Product, People and Personal Branding.                                     
@@ -9,7 +9,7 @@ module.exports = {
     description: `This is my Personal Blog`,
     siteUrl: `https://meghablogs.netlify.app/`,
     social: {
-      twitter: `Megha_Pathak_`,
+      LinkedIn: `https://www.linkedin.com/in/megha--pathak/`,
     },
   },
   plugins: [
